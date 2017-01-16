@@ -1,0 +1,9 @@
+E:\Repositories\School\CIT_301C\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+E:\Repositories\School\CIT_301C\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+E:\Repositories\School\CIT_301C\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+E:\Repositories\School\CIT_301C\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Form1.resources
+E:\Repositories\School\CIT_301C\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+E:\Repositories\School\CIT_301C\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.GenerateResource.Cache
+E:\Repositories\School\CIT_301C\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+E:\Repositories\School\CIT_301C\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+E:\Repositories\School\CIT_301C\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csprojResolveAssemblyReference.cache
